@@ -10,6 +10,8 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+    //two_master1
+    //two_master2
     buildTypes {
         release {
             minifyEnabled false
