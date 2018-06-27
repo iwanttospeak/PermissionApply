@@ -6,6 +6,7 @@ android {
     //test1
     //master2
     //master3
+    //master4
     defaultConfig {
         minSdkVersion 17
         targetSdkVersion 26
