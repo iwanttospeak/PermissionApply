@@ -4,6 +4,7 @@ android {
     compileSdkVersion 26
 
     //test1
+    //master2
     defaultConfig {
         minSdkVersion 17
         targetSdkVersion 26
