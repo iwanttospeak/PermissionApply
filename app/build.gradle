@@ -12,6 +12,7 @@ android {
     }
     //two_master1
     //two_master2
+    //two_master3
     buildTypes {
         release {
             minifyEnabled false
